@@ -2,9 +2,6 @@ package com.liongate.budget.api
 
 import com.google.gson.Gson
 import com.google.gson.JsonObject
-import com.liongate.budget.domain.model.Budget
-import com.liongate.budget.domain.model.Category
-import com.liongate.budget.domain.model.CategoryType
 import com.liongate.budget.domain.model.Transaction
 import com.liongate.budget.domain.model.TransactionType
 import com.liongate.budget.domain.repository.BudgetRepository
