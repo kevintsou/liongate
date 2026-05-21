@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LionGate Budget</string>
+    <string name="home">首頁</string>
+    <string name="transactions">收支</string>
+    <string name="stats">統計</string>
+    <string name="budget">預算</string>
+    <string name="add_transaction">新增記錄</string>
+    <string name="edit_transaction">編輯記錄</string>
+    <string name="categories">分類管理</string>
+    <string name="income">收入</string>
+    <string name="expense">支出</string>
+    <string name="save">儲存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">刪除</string>
+    <string name="amount">金額</string>
+    <string name="date">日期</string>
+    <string name="note">備注</string>
+    <string name="no_records">尚無記錄</string>
+    <string name="monthly_balance">本月結餘</string>
+    <string name="openclaw_api_port">OpenClaw API 埠號: 8080</string>
+</resources>
